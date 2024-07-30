@@ -16,7 +16,7 @@ I am currently employed as a **Data Science Intern** at **Bancolombia**, specifi
 
 ## Fun Fact
 
-Banker by day, Bard by night. 🎤🎶
+Banker by day, Bard by night.
 
 ## Projects
 

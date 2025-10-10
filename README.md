@@ -5,8 +5,8 @@
 👋 Hi there! I'm **Alfonso Fierro**, an enthusiastic undergrad student majoring in Mathematical Engineering. My academic and professional interests span across various fascinating fields:
 
 - 📊 **Statistics**
-- 🔭 **Physics**
-- 🤖 **Heuristics**
+- 🔭 **Heuristics**
+- 🤖 **Machine Learning**
 - 💸 **Financial Mathematics**
 
 ## Current Role

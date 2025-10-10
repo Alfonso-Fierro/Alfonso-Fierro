@@ -14,8 +14,8 @@
 I am currently working as a **Freelance Data Scientist**, it's exciting and fulfilling for me to bring the power of Data and AI to small and not so small businesses. I'm convinced that the labor I provide helps democratize the value this technologies bring to both the production lines and the decission making processes. My experience in this field is listed here:
 
 - _Bancolombia_ (june 2024 - january 2025): As a datascience intern I developed over 15 tools that integrated in the automation and evaluation processes of the Risk Audit Management of the bank. My solutions relieved hours of manual audit labor and impacted core revission processes of the  liquidity, operational and credit risk departments of the bank. 
-- _Haus Consulsting_ (june 2025 - August 2025): Builded the core models for product allocation and demand forecasting for Cotton:on Australia. This project was presented as a concept to shape the new data driven approach of the decision making processes of the brand.
-- 
+- _V AI Consulsting_ (june 2025 - August 2025): Builded the core models for product allocation and demand forecasting for Cotton:on Australia. This project was presented as a concept to shape the new data driven approach of the decision making processes of the brand.
+
 ## Fun Fact
 
 My favorite hobbie is to embody a StoryTeller in public parks and a Tale writter in my private roon 😆 

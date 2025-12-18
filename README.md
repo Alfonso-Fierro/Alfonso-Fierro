@@ -49,11 +49,9 @@ I specialize in applying mathematical rigor to solve complex problems in machine
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Alfonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alfonso-Fierro&show_icons=true&theme=latte&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonso-Fierro&layout=compact&theme=latte&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Alfonso-Fierro&show_icons=true&theme=latte&hide_border=true&count_private=true" alt="Alfonso's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonso-Fierro&layout=compact&theme=latte&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfonso-Fierro&theme=latte&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-**Mathematical Engineer** currently working as an **ML Engineer** at BridgeUs startup, based in Colombia.
+**Mathematical Engineer** currently working as an **ML advisor** at BridgeUs, a networking and AI Startup.
 
 I specialize in applying mathematical rigor to solve complex problems in machine learning, data science, and quantitative analysis. My work focuses on **stochastic processes**, **risk modeling**, and **financial mathematics**, leveraging cloud infrastructure to build scalable ML solutions.
 
